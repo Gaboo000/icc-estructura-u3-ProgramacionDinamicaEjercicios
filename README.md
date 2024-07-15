@@ -1,4 +1,20 @@
 
+
+author: Gabriel Segarra
+tag version: V3.2.1
+
+
+Ejercicios Programacion Dinamica 
+
+ejercicio Uno:
+crear un metodo que devuelva los subconjuntos de un arreglo de enteros 
+
+ejercicio Dos:
+Implementacion de un algoritmo para generar combinaciones de parentesis 
+
+
+
+     
 # Dynamic Programming
 
 ## Getting Started
